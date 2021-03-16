@@ -1,0 +1,22 @@
+genre,culture,language,frequency
+Konpa,Haitian,"Kreyol,English",13
+Hara,Haitian,Kreyol,1
+Rara,Haitian,Kreyol,1
+Mizrahi,Orthodox Jewish,English,1
+R&B,"Jamaican,Pan-Caribbean",English,6
+Soul,"Jamaican,Pan-Caribbean",English,2
+Reggae,"Jamaican,Pan-Caribbean, Grenadian",English,19
+Soca,"Grenadian,Pan-Caribbean,Jamaican,Trinidadian",English,24
+Turkish,Turkish,Turkish,1
+Haitian Gospel,Haitian,"Kreyol,English",10
+Dancehall,"Pan-Caribbean, Jamaican",English,4
+Hip Hop,"Pan-Caribbean, Jamaican",English,3
+Hymns,Haitian,"Kreyol,French",1
+Jazz,"Pan-Caribbean,Grenadian",English,2
+Cantillation,Orthodox Jewish,"Hebrew, English",2
+Mizrahi,"Israeli,Sephardic,Orthodox Jewish",Hebrew,2
+Orthodox Jewish Teachings,Orthodox Jewish,English,1
+Caribbean Gospel,"Guyanese,Haitian,Trinidadian,Pan-Caribbean",English,12
+Ska Gospel,Jamaican,English,2
+Country,"Pan-Caribbean,Grenadian",English,2
+Klezmer,"Israeli,Orthodox Jewish","English,Hebrew",1
